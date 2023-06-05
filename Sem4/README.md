@@ -1,4 +1,4 @@
-![MySQL] (https://ru.wikipedia.org/wiki/MySQL#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Mysql.png)
+![MySQL](/Sem4/Mysql.png)
 
 ```sql
 # создание базы данных
@@ -18,8 +18,8 @@ CREATE TABLE AUTO
 );
 
 ```
+![Таблица AUTO](/Sem4/AUTO.png)
 
-Зада
 1. Вывести на экран сколько машин каждого цвета для машин марок BMW и LADA
 
 ```sql
@@ -55,4 +55,4 @@ ON a.id = b.id # условие объединения
 WHERE b.id IS NULL;
 ```
 ---
-Подготовил студент Geek Brains - ###### Ивлев Павел.
+Подготовил студент Geek Brains - **Ивлев Павел**.
